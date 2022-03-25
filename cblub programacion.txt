@@ -1,0 +1,11 @@
+#include <iostream>
+
+using namespace ste;
+
+int main(){
+
+
+coutt<"hola mundo"
+
+
+return 0;
